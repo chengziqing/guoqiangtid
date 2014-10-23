@@ -1,6 +1,8 @@
 filesets:
     includes:
         - README.md
+        - device.crt
+        - device.key
     excludes:
         - \.git
         - .gobuild.yml
