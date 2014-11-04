@@ -7,3 +7,5 @@ bin\guoqiangtid -tlsKey=device.key -tlsCrt=device.crt -domain="guoqiangti.com"
 
 二进制文件下载地址：
 http://gobuild.io/github.com/chengziqing/guoqiangti
+
+
